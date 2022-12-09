@@ -1,2 +1,3 @@
-# BootsTrap
-Introdução ao BoosTrap
+# Curso Técnico em Informática
+
+- Exercícios e Atividades 
