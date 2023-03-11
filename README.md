@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Curso Técnico em Informática IV Período
 
 - Exercícios e Atividades 
@@ -8,4 +7,4 @@
 3. Pernambuco: Página estática com o irno de Pernambuco
 4. Poema
 5. Tabelas
-6. WEB: Introdução a Frame
+6. WEB: Introdução a Frame 
